@@ -1,0 +1,12 @@
+{
+  "name": "nodefs",
+  "version": "0.0.0",
+  "description": "nodefs",
+  "main": "app.js",
+  "author": {
+    "name": "Helle"
+  },
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
