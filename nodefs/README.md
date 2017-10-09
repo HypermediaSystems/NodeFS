@@ -1,4 +1,4 @@
-# nodefs
+# NodeFS (Node FilsSystem)
 
 
 This little Node/Express server gives access to all files with UNC path names:
